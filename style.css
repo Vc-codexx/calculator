@@ -75,14 +75,14 @@ input[type="button"] {
 }
 
 /* Special styles for operator buttons */
-input[value="+"],
-input[value="-"],
-input[value="/"],
-input[value="x"],
-input[value="%"],
+input[value=" + "],
+input[value=" - "],
+input[value=" / "],
+input[value=" x "],
+input[value=" % "],
 input[value="="],
-input[value="."],
-input[value="^"] {
+input[value=" . "],
+input[value=" ^ "] {
     background: #2b2a2a;
     color: white;
     box-shadow: inset -1px 1px 1px 0.2px rgba(131, 130, 130, 0.842);
@@ -105,14 +105,14 @@ input[type="button"]:hover {
 }
 
 /* Hover effects for operator buttons */
-input[value="+"]:hover,
-input[value="-"]:hover,
-input[value="/"]:hover,
-input[value="x"]:hover,
-input[value="%"]:hover,
+input[value=" + "]:hover,
+input[value=" - "]:hover,
+input[value=" / "]:hover,
+input[value=" x "]:hover,
+input[value=" % "]:hover,
 input[value="="]:hover,
-input[value="."]:hover,
-input[value="^"]:hover {
+input[value=" . "]:hover,
+input[value=" ^ "]:hover {
     background: #2b2a2ae7;
 }
 

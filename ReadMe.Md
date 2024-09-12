@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/Vc-codexx/calculator.git
+git clone https://github.com/your-username/calculator
 Open index.html in your browser:
 
 bash
